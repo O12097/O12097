@@ -1,9 +1,11 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=O12097&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
     <hr>
-    <p>Hello there, I am a tech enthusiast and a software engineering student currently attending a vocational high
-        school. I spend most of my time experimenting with code, and I find programming to be very calming. I enjoy what
-        I do, and I am currently a full-stack web developer on a freelance basis.</p>
+    <p>
+        Hello there, i am a tech enthusiast and a software engineering student. 
+        i spend most of my time experimenting with code, i enjoy what i do, 
+        and i am currently a full-stack web developer on a freelance basis.
+    </p>
     <!-- <hr> -->
     <!-- stats section soon -->
 </div>
