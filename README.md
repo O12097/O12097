@@ -3,8 +3,8 @@
     <hr>
     <p>
         Hello there, i am a tech enthusiast and a software engineering student. 
-        i spend most of my time experimenting with code, i enjoy what i do, 
-        and i am currently a full-stack web developer on a freelance basis.
+        i spend most of my time experimenting with code. currently i'm a full-stack 
+        web developer on a freelance basis.
     </p>
     <!-- <hr> -->
     <!-- stats section soon -->
