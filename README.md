@@ -4,7 +4,7 @@
     <p>
         Hello there, i am a tech enthusiast and a software engineering student. 
         i spend most of my time <br> experimenting with code. currently i'm a 
-        full-stack web developer on a freelance basis.
+        full-stack web & mobile app developer on a freelance basis.
     </p>
     <!-- <hr> -->
     <!-- stats section soon -->
