@@ -6,8 +6,8 @@
         i spend most of my time <br> experimenting with code. currently i'm a 
         full-stack web & mobile app developer on a freelance basis.
     </p>
-    <!-- <hr> -->
-    
+    <hr>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=O12097&theme=default&hide_border=true" />
 </div>
 <hr>
 <h2>Others</h2>
