@@ -7,7 +7,7 @@
         full-stack web & mobile app developer on a freelance basis.
     </p>
     <!-- <hr> -->
-    <!-- stats section soon -->
+    ![O12097's Streak](https://github-readme-streak-stats.herokuapp.com/?user=O12097&theme=default&hide_border=true)
 </div>
 <hr>
 <h2>Others</h2>
