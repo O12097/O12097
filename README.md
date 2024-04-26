@@ -12,8 +12,7 @@
 <details>
     <summary>Personal Projects</summary>
     <br />
-    Here are some of my personal projects you might want to check out:
-    <br />
+      Here are some of my personal projects you might want to check out:
     <br />
     <ul>
         <li>soon</li>
@@ -24,8 +23,7 @@
 <details>
     <summary>Learning Journey</summary>
     <br />
-    Discover what I've been learning and experimenting with:
-    <br />
+      Discover what I've been learning and experimenting with:
     <br />
     <ul>
         <li>soon</li>
@@ -35,12 +33,12 @@
     </ul>
 </details>
 <details>
-    <summary>Hobbies & Interests</summary>
+    <summary>Interests</summary>
     <br />
-    Learn about my hobbies and interests outside of coding:
+        My interests outside of coding:
     <br />
-    <ul>
-        <li>soon</li>
-        <li>soon</li>
-    </ul>
+    <p>
+    Russian Literature, Sudoku, Sci-Fi,<br>
+    Art, Classical Music, Action Comic.
+    </p>
 </details>
