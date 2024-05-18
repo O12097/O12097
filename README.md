@@ -38,7 +38,7 @@
         My interests outside of coding:
     <br />
     <p>
-    Russian Literature, Sudoku, Sci-Fi,<br>
+    Literature, Sudoku, Science non/Fic,<br>
     Art, Classical Music, Action Comic.
     </p>
 </details>
